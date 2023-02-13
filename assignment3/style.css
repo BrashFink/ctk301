@@ -1,0 +1,41 @@
+/* CSS Document */
+
+/* ASSIGNMENT 3 */
+
+h1 {
+	color: yellow;
+	background-color: black
+}
+
+h2 {
+	color: white;
+	background-color: dimgray;
+}
+
+h3 {
+	color: olive
+}
+
+a:link {
+	color: red;
+	text-decoration: none;
+}
+
+a:hover {
+	color: yellow
+}
+
+a:visited {
+	color: green
+}
+
+.program {
+	color: goldenrod;
+	font-weight: bold;
+}
+
+#address {
+	color: darkred;
+	font-style: italic; 
+}
+
