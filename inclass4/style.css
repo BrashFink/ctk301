@@ -1,0 +1,52 @@
+/* CSS Document */
+
+h1 {
+	color: white;
+}
+
+#headertext {
+	background-color: cornflowerblue;
+}
+
+a:link {
+	color: green;
+	text-decoration: none;
+}
+
+A:hover {
+	color: red;
+	text-decoration: underline;
+}
+
+h2 {
+	color: blue
+}
+
+.imthedr {
+	color: darkorange
+}
+
+h3 {
+	background-color: yellow;
+}
+
+.inferno {
+	color: red;
+}
+
+h4 {
+	color: yellow;
+	background-color: darkgreen;
+}
+
+.fathersday {
+	background-color: darkseagreen;
+}
+
+.bottombit {
+	background-color: yellow
+}
+
+h5 {
+	color: red;
+}
