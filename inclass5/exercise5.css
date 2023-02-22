@@ -1,0 +1,27 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    border: 1px solid black;
+    width: 200px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    background-color: darkblue;
+    background-image: linear-gradient(to right bottom, #3f6db3, #3061b3, #2554b1, #2146af, #2436aa);
+    display: inline-block;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 20px;
+}
+
+nav li a:hover {
+    background-color: blue;
+    background-image: linear-gradient(to left top, #3f6db3, #3061b3, #2554b1, #2146af, #2436aa);
+}
