@@ -50,15 +50,11 @@ h2 {
 	text-align: justify;
 }
 
-a:link {
+a {
 	text-decoration: none;
 	font-weight: bold;
 }
 
-a:visited {
-	text-decoration: none;
-	font-weight: bold;
-}
 
 a:hover {
 	color: red;
